@@ -1,0 +1,17 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.TravelDiv{
+border:1px solid lightgray;
+}
+
+.TravelDiv img{
+width:100%;
+}
+
+.TravelDiv h5{
+    margin:20px
+}
+
